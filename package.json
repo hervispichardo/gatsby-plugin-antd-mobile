@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-antd-mobile",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Gatsby plugin to use Ant Design Mobile",
   "respository": {
   	"type": "git",
