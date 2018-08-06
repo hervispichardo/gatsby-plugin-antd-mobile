@@ -6,6 +6,7 @@
   	"type": "git",
   	"url": "https://github.com/hervispichardo/gatsby-plugin-antd-mobile"
   },
+  "main": "index.js",
   "keywords": [
     "gatsby",
     "gatsby-plugin",
