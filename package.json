@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-antd-mobile",
-  "version": "1.0.4",
+  "version": "1.0.9",
   "description": "Gatsby plugin to use Ant Design Mobile",
   "respository": {
   	"type": "git",
@@ -19,10 +19,12 @@
     "antd-mobile": "^2.2.2",
     "babel-plugin-import": "^1.7.0"
   },
+  "peerDependencies": {
+    "gatsby": ">=1"
+  },
   "devDependencies": {
     "babel-cli": "^6.24.1",
-    "babel-preset-es2015": "^6.24.1",
-    "babel-preset-stage-0": "^6.24.1"
+    "babel-preset-env": "^1.7.0"
   },
   "readme": "README.md",
   "scripts": {
